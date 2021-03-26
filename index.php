@@ -37,7 +37,6 @@ include("conexion.php");
 			<hr />
 			
 
-			<div class="ui-widget"><input id="buscador" placeholder="Ej: García"></div>
 
 
 
