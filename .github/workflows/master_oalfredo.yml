@@ -32,5 +32,5 @@ id: deploy-to-webapp
       with:
         app-name: 'oalfredo'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_b92ea2ec59fc40e8860269f4024a93e7 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_1bc75d04c76e4283b1aa198130bb3e74 }}
         package: ${{env.DOTNET_ROOT}}/myapp 
