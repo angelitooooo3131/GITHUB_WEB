@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'webaos'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_7e5f342c5772454ca85b1aa78e711709 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_fa7e858ecce44cee822128f69355e8b2 }}
         package: .
